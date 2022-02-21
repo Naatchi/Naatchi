@@ -15,13 +15,13 @@
 ### 🖥️ About Me:
 ##### I'm a front-end developer currently studying IT at The Ohio State University.
 
-- I'm currently working on developing websites and bots.
+- 🐍 I'm currently working on developing websites and bots.
 
-- I am working on learning more modern website design and implementation concepts.
+- 🐢 Right now I'm learning about more modern website design and implementation concepts.
 
-- In my free time I play lots of MMORPGs like Lost Ark
+- 🦎 In my free time I play MMORPGS and Flight Simulators.
 
-- If you need to contact me for anything message me on my discord: Naatchi#8008
+- 🦧 If you need to contact me for anything message me on my discord: Naatchi#8008
 ---
 ### Languages & Tools:
 <div>
