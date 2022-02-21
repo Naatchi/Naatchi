@@ -13,7 +13,7 @@
 
 ---
 ### 🖥️ About Me:
-##### I'm a front-end developer currently studying IT at The Ohio State University.
+#### I'm a front-end developer currently studying IT at The Ohio State University.
 
 - 🐍 I'm currently working on developing websites and bots.
 
