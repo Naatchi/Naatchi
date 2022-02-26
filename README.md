@@ -2,7 +2,7 @@
     <img src="https://cdn.discordapp.com/attachments/253020121688309761/930315310643441694/image0-114.gif" />
 </div>
 <div align="center">
-    <img src="https://img.shields.io/badge/Naatchi-purple?style=for-the-badge&logo=discord&logoColor=white" title="Naatchi#8008"/>
+    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" title="Naatchi#8008"/>
     <a href="">
         <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
@@ -23,6 +23,14 @@
 
 - 🦧 If you need to contact me for anything message me on my discord: Naatchi#8008
 ---
+
+### 🧠 Things I should probably do:
+ - 🧹 clean my repos.
+ - 🛠️ re-write napi.
+ - 📦 move some old js bots to ts.
+
+---
+
 ### Languages & Tools:
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" height="40" title="typescript" />
