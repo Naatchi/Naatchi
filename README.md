@@ -24,10 +24,10 @@
 - 🦧 If you need to contact me for anything message me on my discord: Naatchi#8008
 ---
 
-### 🧠 Things I should probably do:
- - 🧹 clean my repos.
- - 🛠️ re-write napi.
- - 📦 move some old js bots to ts.
+### ⏰ Wakatime: 
+newly created so it may not show everything i have worked with!
+
+<figure><embed src="https://wakatime.com/share/@8334e850-bf59-40e9-8978-326855a59cd6/69deb2f0-709b-473b-bb7f-d57119b75e61.svg"></embed></figure>
 
 ---
 
