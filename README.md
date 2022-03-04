@@ -24,13 +24,6 @@
 - 🦧 If you need to contact me for anything message me on my discord: Naatchi#8008
 ---
 
-### ⏰ Wakatime: 
-newly created so it may not show everything i have worked with!
-
-<figure><embed src="https://wakatime.com/share/@8334e850-bf59-40e9-8978-326855a59cd6/69deb2f0-709b-473b-bb7f-d57119b75e61.svg"></embed></figure>
-
----
-
 ### Languages & Tools:
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" height="40" title="typescript" />
