@@ -62,6 +62,7 @@
 ### Stats:
 recently added so some things are a little out of whack :)
 
+<img src="https://wakatime.com/share/@8334e850-bf59-40e9-8978-326855a59cd6/e58aeb75-992c-4afe-94a3-79670309556c.svg" />
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Naatchi&theme=dark&background=000000)](https://git.io/streak-stats)
 
