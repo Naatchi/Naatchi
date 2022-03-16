@@ -15,6 +15,8 @@
 ### 🖥️ About Me:
 #### I'm a front-end developer currently studying IT at The Ohio State University.
 
+- ⚙️ I work with the MineInAbyss project and Wynntils.
+
 - 🐍 I'm currently working on developing websites and bots.
 
 - 🐢 Right now I'm learning about more modern website design and implementation concepts.
