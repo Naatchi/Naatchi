@@ -59,12 +59,11 @@
 
 ---
 
-### Stats:
-recently added so some things are a little out of whack :)
+### Language Stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Naatchi&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naatchi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+    <img src="https://wakatime.com/share/@8334e850-bf59-40e9-8978-326855a59cd6/3448b25c-4db6-41dd-9ca8-1953970d9899.svg" alt='wakatime-chart' height="450" />
+</div>
 
 ---
 💕 made with love
