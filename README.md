@@ -3,7 +3,7 @@
 </div>
 <div align="center">
     <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" title="Naatchi#8008"/>
-    <a href="">
+    <a href="https://twitter.com/Naaatchii">
         <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
     <a href="">
