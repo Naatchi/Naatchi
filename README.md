@@ -10,6 +10,9 @@
         <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
     </a>
 </div>
+<div align="center">
+    <a href="https://wakatime.com/@8334e850-bf59-40e9-8978-326855a59cd6"><img src="https://wakatime.com/badge/user/8334e850-bf59-40e9-8978-326855a59cd6.svg" alt="Total time coded
+</div>
 
 ---
 ### 🖥️ About Me:
