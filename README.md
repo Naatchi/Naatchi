@@ -11,9 +11,11 @@
     </a>
 </div>
 <div align="center">
-    <a href="https://wakatime.com/@8334e850-bf59-40e9-8978-326855a59cd6"><img src="https://wakatime.com/badge/user/8334e850-bf59-40e9-8978-326855a59cd6.svg" alt="Total time coded
+    <a href="https://wakatime.com/@8334e850-bf59-40e9-8978-326855a59cd6">
+        <img src="https://wakatime.com/badge/user/8334e850-bf59-40e9-8978-326855a59cd6.svg" alt="Total time coded" />
+    </a>                                                                                        
 </div>
-
+    
 ---
 ### 🖥️ About Me:
 #### I'm a front-end developer currently studying IT at The Ohio State University.
