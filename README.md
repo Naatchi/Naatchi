@@ -73,7 +73,7 @@
 </p>
 
 
-<div>
+<div align="center">
     <img src="https://wakatime.com/share/@8334e850-bf59-40e9-8978-326855a59cd6/3448b25c-4db6-41dd-9ca8-1953970d9899.svg" alt='wakatime-chart' height="450" />
 </div>
 
