@@ -31,7 +31,7 @@
 - 🦧 If you need to contact me for anything message me on my discord: Naatchi#8008
 ---
 
-### Languages & Tools:
+### 🌎 Languages & Tools:
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" height="40" title="typescript" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original.svg" height="40" title="NextJs"/>
