@@ -66,12 +66,7 @@
 
 ---
 
-### Language Stats:
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Naatchi&bg_color=00000000&text_color=7a7a7e&langs_count=15&layout=compact&hide=other,xml,text&custom_title=Language%20Experience%20(WakaTime)"/>
-</p>
-
+### 📚 Language Stats:
 
 <div>
     <img src="https://wakatime.com/share/@8334e850-bf59-40e9-8978-326855a59cd6/3448b25c-4db6-41dd-9ca8-1953970d9899.svg" alt='wakatime-chart' height="450" />
