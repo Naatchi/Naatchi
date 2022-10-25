@@ -1,21 +1,6 @@
 <div align="center">
     <img src="https://cdn.discordapp.com/attachments/253020121688309761/930315310643441694/image0-114.gif" />
 </div>
-<div align="center">
-    <img src="https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white" title="Naatchi#8008"/>
-    <a href="https://twitter.com/Naaatchii">
-        <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="">
-        <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
-</div>
-<div align="center">
-    <a href="https://wakatime.com/@8334e850-bf59-40e9-8978-326855a59cd6">
-        <img src="https://wakatime.com/badge/user/8334e850-bf59-40e9-8978-326855a59cd6.svg" alt="Total time coded" />
-    </a>                                                                                        
-</div>
-    
 ---
 ### 🖥️ About Me:
 #### I'm a front-end developer currently studying IT at The Ohio State University.
@@ -64,13 +49,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg" height="40" title="visualstudio" />
 </div>
 
----
-
-### 📚 Language Stats:
-
-<div>
-    <img src="https://wakatime.com/share/@8334e850-bf59-40e9-8978-326855a59cd6/3448b25c-4db6-41dd-9ca8-1953970d9899.svg" alt='wakatime-chart' height="450" />
-</div>
 
 ---
 💕 made with love
