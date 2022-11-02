@@ -2,6 +2,8 @@
     <img src="https://cdn.discordapp.com/attachments/253020121688309761/930315310643441694/image0-114.gif" />
 </div>
 ---
+
+
 ### 🖥️ About Me:
 #### I'm a front-end developer currently studying IT at The Ohio State University.
 
