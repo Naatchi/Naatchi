@@ -1,22 +1,20 @@
-<div align="center">
-    <img src="https://cdn.discordapp.com/attachments/253020121688309761/930315310643441694/image0-114.gif" />
-</div>
----
 
+# Hi I'm Natalie!
 
-### 🖥️ About Me:
-#### I'm a front-end developer currently studying IT at The Ohio State University.
+I'm a front-end developer with an intrest in snappy, modern design with an emphasis on fluid and easily understood user design.
 
-- ⚙️ I work with the MineInAbyss project and Wynntils.
+### My story:
 
-- 🐍 I'm currently working on developing websites and bots.
+I've been basically working with code ever since I got my hands on a computer and have worked in multiple teams deploying to large userbases. 
+I was going to college for a degree in computer science till I had a medical emergency that left me with PTSD attacks whenever I attempt to return to schooling.
+So I am continuing my work in volunteer developer teams and building out my experience in a slew of languages, frameworks, libraries, and much much more.
+I have been on a medical haiatus for the past year and now I feel that it I am able to slowly but surely return to pushing out updates and projects to my page.
 
-- 🐢 Right now I'm learning about more modern website design and implementation concepts.
-
-- 🦎 In my free time I play MMORPGS and Flight Simulators.
-
-- 🦧 If you need to contact me for anything message me on my discord: Naatchi#8008
----
+### Stats:
+[![Naatchi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Naatchi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Naatchi's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Naatchi&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Naatchi&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Naatchi&layout=donut&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ### 🌎 Languages & Tools:
 <div>
