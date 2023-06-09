@@ -16,6 +16,8 @@ I have been on a medical haiatus for the past year and now I feel that it I am a
 [![Top Langs-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=Naatchi&layout=donut&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs-Light](https://github-readme-stats.vercel.app/api/top-langs/?username=Naatchi&layout=donut&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
+<figure><embed src="https://wakatime.com/share/@Naatchi/831d26b2-0a83-41b5-b939-148e1e1d0244.svg"></embed></figure>
+
 ### 🌎 Languages & Tools:
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg" height="40" title="typescript" />
