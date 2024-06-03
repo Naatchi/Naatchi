@@ -51,4 +51,4 @@ I have been on a medical haiatus for the past year and now I feel that it I am a
 
 
 ---
-💕 made with love
+💙🩹❤️‍🩹 still made with love. just twice as much. - Natalie.
