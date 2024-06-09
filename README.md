@@ -1,5 +1,5 @@
 
-# Hi I'm Natalie!
+# Hi I'm Natalie! (she/her - duh.)
 
 I'm a front-end developer with an intrest in snappy, modern design with an emphasis on fluid and easily understood user design.
 
