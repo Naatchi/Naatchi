@@ -1,17 +1,7 @@
 
-# Hi I'm Natalie! (NDP)
+# Hi I'm Laika!
 
 I'm a front-end developer with an intrest in snappy, modern design with an emphasis on fluid and easily understood user design.
-
-### My story:
-
-I've been basically working with code ever since I got my hands on a computer and have worked in multiple teams deploying to large userbases. 
-I was going to college for a degree in computer science till I had a medical emergency that left me with PTSD attacks whenever I attempt to return to schooling.
-So I am continuing my work in volunteer developer teams and building out my experience in a slew of languages, frameworks, libraries, and much much more.
-I have been on a medical haiatus for the past year and now I feel that it I am able to slowly but surely return to pushing out updates and projects to my page.
-
-### PRONOUNS:
-![image](https://github.com/Naatchi/Naatchi/assets/51278904/867d2b04-1de6-47d4-b388-1bb3b676ac6d)
 
 ### Stats:
 [![Naatchi's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Naatchi&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
@@ -54,4 +44,4 @@ I have been on a medical haiatus for the past year and now I feel that it I am a
 
 
 ---
-💙🩹❤️‍🩹 still made with love. just twice as much. - Natalie.
+💙🩹❤️‍🩹 still made with love. just twice as much. - Laika.
