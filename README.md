@@ -1,5 +1,5 @@
 
-# Hi I'm Laika!
+# Hi I'm Robin!
 
 I'm a front-end developer with an intrest in snappy, modern design with an emphasis on fluid and easily understood user design.
 
