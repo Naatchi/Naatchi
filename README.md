@@ -9,4 +9,4 @@ I'm a front-end developer with an intrest in snappy, modern design with an empha
 
 <img src="https://wakatime.com/share/@Naatchi/831d26b2-0a83-41b5-b939-148e1e1d0244.svg" style="height: 500px"></img>
 
-💙🩹❤️‍🩹 still made with love. just twice as much. - Laika.
+💙🩹❤️‍🩹 still made with love. just twice as much
